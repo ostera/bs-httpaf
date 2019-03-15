@@ -1,0 +1,22 @@
+# ninja log v5
+0	40	1552662815	BsHttpaf.cmi	3794af71a5426997
+0	87	1552662815	src/status.mlast	7e280f2690153eb3
+87	101	1552662815	src/status.mlast.d	372e7e7cef162943
+0	31	1552662815	src/status-BsHttpaf.cmj	eb0e3e4b4e424896
+0	31	1552662815	/Users/ostera/repos/github.com/ostera/bs-httpaf/src/status.bs.js	eb0e3e4b4e424896
+0	31	1552662815	src/status-BsHttpaf.cmi	eb0e3e4b4e424896
+0	26	1552662901	src/httpaf_status.mlast	54ba5bac149b3f06
+26	30	1552662901	src/httpaf_status.mlast.d	f49aa9208bec8ab1
+1	27	1552662901	src/httpaf_status.cmj	43d3ac42d1871b97
+1	27	1552662901	/Users/ostera/repos/github.com/ostera/bs-httpaf/lib/js/src/httpaf_status.bs.js	43d3ac42d1871b97
+1	27	1552662901	src/httpaf_status.cmi	43d3ac42d1871b97
+0	22	1552663025	src/httpaf.mlast	72783712ddb31ac4
+1	23	1552663025	src/httpaf_method.mlast	7c807ffa311222c4
+23	28	1552663025	src/httpaf.mlast.d	2d64ac6671ed093
+23	28	1552663025	src/httpaf_method.mlast.d	2d057efcf559cceb
+1	14	1552663025	src/httpaf.cmj	da038aa1e4759b33
+1	14	1552663025	/Users/ostera/repos/github.com/ostera/bs-httpaf/lib/js/src/httpaf.bs.js	da038aa1e4759b33
+1	14	1552663025	src/httpaf.cmi	da038aa1e4759b33
+1	19	1552663025	src/httpaf_method.cmj	bf865ffd1f977030
+1	19	1552663025	/Users/ostera/repos/github.com/ostera/bs-httpaf/lib/js/src/httpaf_method.bs.js	bf865ffd1f977030
+1	19	1552663025	src/httpaf_method.cmi	bf865ffd1f977030
